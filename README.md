@@ -18,17 +18,6 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,python" alt="skills" />
 </div>
 
-## 📊 GitHub 统计
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=liuguangsen0409&show_icons=true&theme=synthwave&hide_border=true&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=liuguangsen0409&layout=compact&theme=synthwave&hide_border=true" alt="top langs" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=liuguangsen0409&hide_border=true&stroke=8A2BE2&ring=8A2BE2&fire=FF6B35&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=8A2BE2&sideLabels=00FFFF" alt="streak" />
-</div>
-
 ## 🐍 贪吃蛇
 
 <div align="center">
